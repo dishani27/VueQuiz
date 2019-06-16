@@ -1,4 +1,4 @@
-# 8_vue_project
+# Quiz App
 
 ## Project setup
 ```
